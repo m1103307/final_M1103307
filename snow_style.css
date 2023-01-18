@@ -1,0 +1,223 @@
+.areaText {
+    text-align: center;
+    margin-top: 24.25px;
+    margin-bottom: 48px;
+    font: normal normal normal 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+
+.home01 {
+    background: url('image/home01.png') center;
+    background-size: cover;
+    height: 486px;
+    width: 648px;
+}
+
+.buttom {
+    width: 40px;
+    height: 25px;
+    text-align: center;
+    font: normal normal bold 16px/25px Kalam;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+    margin-left: 43%;
+    text-decoration: none;
+}
+
+.buttom2 {
+    font: normal normal normal 20px/27px Noto Sans;
+    background-color: #FFFFFF;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    width: 216px;
+    height: 44px;
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 87px;
+    border-radius: 10px;
+    border-width: 1px;
+    border: 1px solid #3A3A3A;
+    border-radius: 23px;
+    opacity: 1;
+
+}
+
+.buttom-area {
+    margin-left: 42%;
+}
+
+.card {
+    width: 424px;
+    height: 747px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 4px 8px #00000014;
+    border-radius: 24px;
+    opacity: 1;
+}
+
+.card-title {
+    text-align: left;
+    font: normal normal bold 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+
+.card-text {
+    text-align: left;
+    font: normal normal normal 16px/24px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+
+.dogImg1 {
+    width: 312px;
+    height: 312px;
+    border-radius: 24px;
+    opacity: 1;
+}
+
+.dogImg2 {
+    width: 424px;
+    height: 424px;
+    border-top-right-radius: 24px;
+    border-top-left-radius: 24px;
+    opacity: 1;
+}
+
+.designCard {
+    width: 25%;
+}
+
+.designArea {
+    margin-top: 80px;
+}
+
+.row.areaCard {
+    padding-top: 24px;
+    height: 747px;
+}
+
+.homeImg {
+    width: 100%;
+}
+
+.page {
+    margin-top: 80px;
+    margin-bottom: 60px;
+}
+
+.page p {
+    text-align: center;
+    font: normal normal bold 20px/32px Kalam;
+    letter-spacing: 10px;
+    color: #3A3A3A;
+}
+
+.headerButtom {
+    background-color: #F9C745;
+    width: 176px;
+    height: 38px;
+    border: none;
+    border-radius: 23px;
+    font: normal normal normal 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+
+.homeTitle01 {
+    text-align: left;
+    font: normal normal bold 24px/39px Kalam;
+    letter-spacing: 0px;
+    color: #F9C745;
+    opacity: 1;
+}
+
+.homeTitle02 {
+    text-align: left;
+    font: normal normal bold 32px/51px Kalam;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+
+.homeContent {
+    text-align: left;
+    font: normal normal normal 16px/32px Noto Sans;
+    letter-spacing: 1.28px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+
+.title01 {
+    margin-left: 40%;
+    margin-bottom: 40.25px;
+}
+
+.title01 img {
+    width: 250px;
+    height: 134px;
+}
+
+.footer {
+    width: 100%;
+    height: 70px;
+    background-color: #3A3A3A;
+    padding-top: 24px;
+}
+
+.footer p {
+    text-align: center;
+    font: normal normal normal 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.footTitle {
+    text-align: left;
+    font: normal normal normal 24px/33px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+
+.footTitle p {
+    text-align: left;
+    font: normal normal normal 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+
+.footerButtom {
+    font: normal normal normal 20px/27px Noto Sans;
+    background-color: #FFFFFF;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    width: 176px;
+    height: 44px;
+    display: block;
+    border-radius: 10px;
+    border-width: 1px;
+    border: 1px solid #3A3A3A;
+    border-radius: 23px;
+    opacity: 1;
+}
+
+.buttom2:hover {
+    background-color: #F9C745;
+    border: none;
+}
+
+.footerButtom:hover {
+    background-color: #F9C745;
+    border: none;
+}
